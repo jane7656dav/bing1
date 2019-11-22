@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: http://www.jmakeys.in/");
 die();
 ?>
