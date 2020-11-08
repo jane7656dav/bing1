@@ -1,4 +1,4 @@
 <?php
-header("Location: https://new-activationhewq.wixsite.com/mysite");
+header("Location: https://www.start-new-product.website/actmca/");
 die();
 ?>
